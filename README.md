@@ -10,7 +10,7 @@ Roget's comprehensive collection of words and their associations is accessed thr
 
 ## Dependencies
 
-You can install the dependencies of the project using [Poetry](https://python-poetry.org/):
+To install the dependencies of the project using [Poetry](https://python-poetry.org/):
 
 ```
 poetry install
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 ## Data Resources
 
-You can access the word embeddings used in this project, as well as the machine learning classification models for the "Class/Section Prediction" section through this [link](https://drive.google.com/drive/folders/1fhWq8VNi8ZOD0D2jUteGo__cet208hvB?usp=sharing)
+The word embeddings used in this project, as well as the machine learning classification models for the "Class/Section Prediction" section can be accessed through this [link](https://drive.google.com/drive/folders/1fhWq8VNi8ZOD0D2jUteGo__cet208hvB?usp=sharing)
 
 # Main Sections
 
