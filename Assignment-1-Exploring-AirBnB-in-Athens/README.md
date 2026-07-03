@@ -19,8 +19,8 @@ Furthermore, using the [data assumptions](https://insideairbnb.com/data-assumpti
 
 With the use of the `folium` library, the following interactive maps of AirBnB listings in Athens are created:
 
-1. The [first map](https://github.com/cfragiadakis/Exploring-AirBnB-in-Athens/blob/main/maps/athens_airbnb_map.html) provides descriptive information for each listing, including neighbourhood, room type, price and url. 
-2. The [second map](https://github.com/cfragiadakis/Exploring-AirBnB-in-Athens/blob/main/maps/athens_airbnb_map2.html) visualizes listings based on their ratings and number of reviews, helping potential guests identify the best opportunities for booking in Athens.
+1. The [first map](maps/athens_airbnb_map.html) provides descriptive information for each listing, including neighbourhood, room type, price and url. 
+2. The [second map](athens_airbnb_map2.html) visualizes listings based on their ratings and number of reviews, helping potential guests identify the best opportunities for booking in Athens.
    
 **Note**: if you click a URL and visit the listing, you might find slight inaccuracies with some data presented in the map. This may happen because the last edition of data of [Inside AirBnB](https://insideairbnb.com/get-the-data/) refer until December, 2023
 
@@ -33,4 +33,4 @@ The analysis can be replicated by using the data from any other city for which d
 
 1st Assignment for Applied Machine Learning 2024 (DMST, AUEB)
 
-You can find the description of the assignment [here](https://github.com/cfragiadakis/Exploring-AirBnB-in-Athens/blob/main/assignment_description.ipynb).
+You can find the description of the assignment [here](assignment_description.ipynb).
