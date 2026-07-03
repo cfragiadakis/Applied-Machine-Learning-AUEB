@@ -18,4 +18,4 @@ Finally, with the use of confidence intervals, Chenoweth's **3.5%** rule is deri
 
 2nd Assignment for Applied Machine Learning 2024 (DMST, AUEB)
 
-You can find the description of the assignment [here](https://github.com/cfragiadakis/Exploring-Why-Civil-Resistance-Works/blob/main/assignment_description.ipynb).
+You can find the description of the assignment [here](assignment_description.ipynb).
